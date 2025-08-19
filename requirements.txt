@@ -1,0 +1,7 @@
+autogen-agentchat # For chat-based interactions
+autogen-core # Core functionalities
+autogen-ext # External integrations
+dotenv # For environment variable management
+openai # OpenAI API client
+tiktoken # Tokenization library
+pydantic # Data validation and settings management
